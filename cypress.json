@@ -1,0 +1,9 @@
+{
+    "baseUrl": "https://www.phptravels.net/",
+    "viewportHeight": 1080,
+    "viewportWidth": 1920,
+    "video": false,
+    "env": {
+        "RETRIES": 2
+    }
+}
